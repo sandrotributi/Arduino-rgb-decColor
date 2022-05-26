@@ -3,8 +3,11 @@
  * letta dalla porta seriale.
  * Formato della stringa decimale: RRR,GGG,BBB 
  * 
- * @author     Sandro Tributi <tributi.sandro@curiepergine.it>
- * @copyright  CC BY
+ * This code is in the public domain. 
+ * 
+ * by Sandro Tributi <sandro.tributi@gmail.com>
+ *
+ * https://github.com/sandrotributi/Arduino-rgb-hexColor/edit/main/rgb_decColor.ino
  */
  
 // Pin led RGB
