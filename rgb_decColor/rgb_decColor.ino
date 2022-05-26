@@ -11,9 +11,9 @@
  */
  
 // Pin led RGB
-#define pinRed 9
+#define pinRed 11
 #define pinGreen 10
-#define pinBlue 11
+#define pinBlue 9
 
 // Variabili
 String decStr; // stringa letta dalla porta seriale
